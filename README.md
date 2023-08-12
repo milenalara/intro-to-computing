@@ -1,5 +1,5 @@
-- 🇺🇸 [English](#Introduction-to-Computing-Project)
-- 🇧🇷 [Português](#Trabalho-Introdução-à-Computação)
+- 🇺🇸 [English](#introduction-to-computing-project)
+- 🇧🇷 [Português](#trabalho-introdução-à-computação)
 
 ## Introduction to Computing Project
 
