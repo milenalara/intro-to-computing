@@ -8,7 +8,7 @@ Academic work completed for the course Introduction to Computing, taught by Prof
 
 Students were to create a simple program in five different programming languages: C, C++, C#, Java, and Python.
 
-The calculates the final score of a candidate in a selection process for a junior position in software development. The company implements affirmative actions in its selections.
+The software calculates the final score of a candidate in a selection process for a junior position in software development. The company implements affirmative actions in its selections.
 
 To be approved, the candidate must score at least 60 out of 100 in the simple average of the following exams:
 - logical reasoning
